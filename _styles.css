@@ -19,8 +19,9 @@ body { background-color: #606061; color: #ffffff; margin: 60px 0 0; }
 img { border: none; }
 p
 {
-	font-size: 1em;
-	margin: 0 0 1em 0;
+	color: #fff;
+    line-height: 1.5em;
+    margin: 0 0 1.833em;
 }
 
 /* Branding */
